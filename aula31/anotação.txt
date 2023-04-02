@@ -1,0 +1,28 @@
+Conceito Polimorfismo
+Poli significa "muitas"
+morfo significa "formas"
+Permite que um mesmo nome represente vários comportamentos direfentes
+
+assinatura do método
+quantidade  e os tipos dos parãmentros
+exemplos:
+publico metodo calcMedia(n1, n2:Real)Real
+
+publico metodo calcMedia(n1, n2:Real)Inteiro
+
+o tipo do  retorno não conta
+
+publico metodo calcMedia(bim:Inteiro, n1, n2:Real)Real
+
+publico metodo calcMedia(n1, n2, n3, n4:Real)Real
+
+Tipos de Polimorfismo
+
+1 - Sobreposição
+2 - Sobrecarga
+
+
+Animal
+peso
+idade
+membros
